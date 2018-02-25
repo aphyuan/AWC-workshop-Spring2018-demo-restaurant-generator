@@ -11,8 +11,8 @@
 	* for more information about Yelp's API, check out this link: https://www.yelp.com/developers/documentation/v3/business_search
 
 
-###Level 1
-*TODOs:
+### Level 1
+* TODOs:
 1. work on the stylesheet
 2. change the button from "generate restaurant" into "try again" for the second time click it
 3. fix the append problem (hint: http://api.jquery.com/replacewith/)
@@ -20,8 +20,8 @@
 5. expand your restaurant array (if you choose to do level2, dont worry about this)
 6. DIY the things you want to put in
 
-###Level 2 (optional)
-*TODOs:
+### Level 2 (optional)
+* TODOs:
 1. install nodejs and npm on your laptop. https://nodejs.org/en/download/
 2. register for an API key on Yelp
 3. go to level2 and do `npm install`
