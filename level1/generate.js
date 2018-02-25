@@ -5,6 +5,8 @@ $(document).ready(function(){
         $("#output").append("<b>"+getRest()+"</b>");
     });
 
+    //here, fix the appending problem
+
 });
 
 function getRest(){
